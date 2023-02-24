@@ -10,3 +10,9 @@ Inputs:
 Sample output:
  Your name is Joe Lunchbox, and your email is joe@koolsandwiches.org.
 """
+
+Name=input("What is your name?")
+email=input("What is your gmail?")
+
+print(f"Your name is {Name}, and your email is {email}")
+
